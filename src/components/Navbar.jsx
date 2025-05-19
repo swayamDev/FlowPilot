@@ -39,7 +39,9 @@ const Navbar = () => {
             </a>
           </div>
           <div className="lg:hidden md:flex flex-col justify-end">
-            <button onClick={handleToggle}>{isOpen ? <X /> : <Menu />}</button>
+            <button aria-label="Menu" onClick={handleToggle}>
+              {isOpen ? <X /> : <Menu />}
+            </button>
           </div>
         </div>
         {isOpen && (

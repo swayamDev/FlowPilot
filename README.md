@@ -1,12 +1,107 @@
-# React + Vite
+# 🚀 FlowPilot – Automate Your Workflow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern landing page for a fictional workflow automation SaaS product built using React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Live Site](https://flowpilot-chi.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![FlowPilot Landing Page Screenshot](/public/screenshot.png)
+
+---
+
+## 📖 About the Project
+
+FlowPilot is a fictional SaaS product designed to showcase a clean, responsive landing page that highlights product features, pricing, testimonials, and a strong call-to-action—all optimized with Tailwind CSS and React components using Vite.
+
+---
+
+## 🎯 Features
+
+- 🌟 Responsive Hero Section with Video
+- 🔧 Features Overview
+- 🔁 Workflow Steps
+- 💸 Pricing Plans
+- 🗣️ Testimonials
+- 🔗 Fully Functional Navigation
+- 🦶 Footer with Socials
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React 19
+- ⚡ Vite
+- 🎨 Tailwind CSS 4
+- 🖼️ Lucide Icons
+- 📹 Web-optimized videos and images
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/swayamDev/FlowPilot.git
+cd FlowPilot
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the dev server:
+
+```bash
+npm run dev
+```
+
+---
+
+## ▶️ Usage
+
+Modify text, media, and sections inside the src/components/ directory. Customize styles via index.css.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
+
+---
+
+## 📄 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+**💼 Swayam Swarup Panda**  
+📧 swayamcoder@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/swayam-webdev/)
+
+---
+
+## 🎉 Acknowledgements
+
+- [React](https://reactjs.org)
+- [Vite](https://vitejs.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Lucide Icons](https://lucide.dev)
+- [Vercel](https://vercel.com)
+
+---
+
+## 🔮 Future Work
+
+- 🌐 Add blog section
+- 🛠️ CMS integration
+- 🌍 Multilingual support
+- ✨ Animations with GSAP or Framer Motion
